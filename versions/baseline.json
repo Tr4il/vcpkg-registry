@@ -1,0 +1,8 @@
+{
+    "default": {
+        "bencode": {
+            "port-version": 0,
+            "baseline": "1.0.0"
+        }
+    }
+}
