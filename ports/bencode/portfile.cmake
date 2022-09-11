@@ -11,7 +11,6 @@ vcpkg_cmake_configure(
   OPTIONS
     -DBENCODE_BUILD_TESTS=OFF
     -DBENCODE_BUILD_BENCHMARKS=OFF
-    -DBENCODE_BUILD_BENCHMARKS=OFF
 )
 vcpkg_cmake_install()
 vcpkg_cmake_config_fixup(
