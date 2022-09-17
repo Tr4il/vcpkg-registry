@@ -59,7 +59,7 @@ elseif (VCPKG_TARGET_IS_WINDOWS AND VCPKG_TARGET_IS_MINGW)
     endif()
 
 else()
-     vcpkg_configure_make(
+    vcpkg_configure_make(
         SOURCE_PATH "${SOURCE_PATH}"
         AUTOCONFIG
     )

@@ -33,15 +33,6 @@
             "version>=": "3.0.1"
           }
         ]
-      },
-      "benchmarks": {
-        "description": "Build benchmarks",
-        "dependencies": [
-          "benchmark",
-          "boost",
-          "libtorrent",
-          "qt5"
-        ]
       }
     }
   }
