@@ -25,6 +25,14 @@
       }
     ],
     "features": {
+      "isal": {
+        "description": "Build with isal support",
+        "dependencies": [
+          {
+            "name": "isal-crypto"
+          }
+        ]
+      },
       "tests": {
         "description": "Build tests",
         "dependencies": [
