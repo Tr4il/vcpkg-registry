@@ -15,7 +15,8 @@
         "name": "gsl-lite"
       },
       {
-        "name": "bencode"
+        "name": "bencode",
+        "version>=": "1.0.0"
       },
       {
         "name": "vcpkg-cmake",
