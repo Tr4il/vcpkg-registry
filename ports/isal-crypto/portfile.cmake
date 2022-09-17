@@ -70,4 +70,4 @@ else()
 endif()
 
 configure_file("${CMAKE_CURRENT_LIST_DIR}/unofficial-isal-crypto-config.cmake" "${CURRENT_PACKAGES_DIR}/share/unofficial-isal-crypto/unofficial-isal-crypto-config.cmake" @ONLY)
-file(INSTALL "${SOURCE_PATH}/LICENSE" DESTINATION "${CURRENT_PACKAGES_DIR}/share/unofficial-isal-crypto" RENAME copyright)
+file(INSTALL "${SOURCE_PATH}/LICENSE" DESTINATION "${CURRENT_PACKAGES_DIR}/share/${PORT}" RENAME copyright)
