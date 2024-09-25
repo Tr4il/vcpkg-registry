@@ -1,7 +1,7 @@
 {
   "name": "isal-crypto",
   "version": "2.25.0",
-  "description": "Intel(R) Intelligent Storage Acceleration Library Crypto Version",
+  "description": "Intel(R) Intelligent Storage Acceleration Library Crypto Version (ISAL)",
   "homepage": "https://github.com/intel/isa-l_crypto",
   "license": "BSD-3-Clause",
   "supports": "!uwp & (x64 | (arm64 & linux))"
