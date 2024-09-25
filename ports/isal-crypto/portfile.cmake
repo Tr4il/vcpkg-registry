@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO intel/isa-l_crypto
     REF v2.25.0
-    SHA512  d63f14468258b977cf85bcb2cb5a6de1a678d51631cdbb361aed0f45a5c0ae3770bb40721b6da1cfe889cb88c2c5620a12adf2a8b0c90031f1bfe1b276641f38
+    SHA512 d63f14468258b977cf85bcb2cb5a6de1a678d51631cdbb361aed0f45a5c0ae3770bb40721b6da1cfe889cb88c2c5620a12adf2a8b0c90031f1bfe1b276641f38
     HEAD_REF master
 )
 
